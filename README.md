@@ -1,2 +1,2 @@
 # My-Projects
-Contains Al My Web Development Projects
+Contains All My Web Development Projects
